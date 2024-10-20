@@ -1,7 +1,7 @@
 ﻿
 namespace TaskWork1
 {
-    partial class Form3
+    partial class FileDownload
     {
         /// <summary>
         /// Required designer variable.

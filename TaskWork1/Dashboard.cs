@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace TaskWork1
 {
-    public partial class Form3 : Form
+    public partial class Dashboard : Form
     {
-        public Form3()
+        public Dashboard()
         {
             InitializeComponent();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

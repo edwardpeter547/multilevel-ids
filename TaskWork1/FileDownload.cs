@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace TaskWork1
 {
-    public partial class Form2 : Form
+    public partial class FileDownload : Form
     {
-        public Form2()
+        public FileDownload()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

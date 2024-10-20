@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace TaskWork1
 {
-    public partial class Form5 : Form
+    public partial class Login : Form
     {
-        public Form5()
+        public Login()
         {
             InitializeComponent();
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

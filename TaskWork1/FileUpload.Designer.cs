@@ -1,7 +1,7 @@
 ﻿
 namespace TaskWork1
 {
-    partial class Form4
+    partial class FileUpload
     {
         /// <summary>
         /// Required designer variable.

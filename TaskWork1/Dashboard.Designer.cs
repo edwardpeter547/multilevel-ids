@@ -1,7 +1,7 @@
 ﻿
 namespace TaskWork1
 {
-    partial class Form5
+    partial class Dashboard
     {
         /// <summary>
         /// Required designer variable.
